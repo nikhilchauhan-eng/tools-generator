@@ -1,0 +1,28 @@
+
+form#basic {
+    border: 1px solid;
+    margin: 10px 116px;
+    padding: 10px;
+    padding-bottom: 200px;
+    background: #c7f5ff;
+}
+
+.ant-row.ant-form-item {
+    /* padding: 9px; */
+    padding-left: 15px;
+}
+.ant-row.ant-form-item.titlem {
+    padding-left: 30px;
+}
+input#basic_title {
+    font-size: 20px;
+}
+h1.matatag {
+    margin-left: 28px;
+}
+textarea#basic_description {
+    font-size: 30px;
+}
+textarea#basic_keyword {
+    font-size: 30px;
+}

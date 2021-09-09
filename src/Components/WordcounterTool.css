@@ -1,0 +1,13 @@
+div#word {
+    border: 2px solid;
+    padding: 60px;
+    text-align: center;
+    margin: 19px 300px;
+    background: bisque;
+}
+input.wordprint {
+    padding: 20px;
+}
+h1.wordcount {
+    margin-top: -50px;
+}

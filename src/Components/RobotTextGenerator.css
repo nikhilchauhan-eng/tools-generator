@@ -1,0 +1,15 @@
+.rbt-form {
+    border: 1px solid;
+    background: cadetblue;
+    margin: 28px 131px 145px 162px;
+}
+.rbt-textarea {
+    /* margin: 14px 42px 10px 10px; */
+    padding: 30px;
+    margin-left: 252px;
+}
+
+h1.rbt-heading {
+    margin-left: 40px;
+    padding: 17px 13px;
+}
